@@ -88,7 +88,9 @@ body{
 
 /*header*/
 .header {
+    /*	
     background: url(../img/view-of-factory-against-blue-sky-257700.jpg) no-repeat top center;
+    */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
