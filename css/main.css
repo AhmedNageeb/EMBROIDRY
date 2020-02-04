@@ -1,4 +1,4 @@
-﻿/* COLORS I LIKE */
+/* COLORS I LIKE */
 
 /*
 
@@ -404,15 +404,22 @@ body{
 .contact {
     color: black;
     margin-top: 150px;
-    margin-bottom: 150px;
+    margin-bottom: 139px;
+    padding-bottom: -29px;
+    background-color: #f1950b;
 }
 
 
-.contact .row{
+.contact .row {
     background-color: #ffffff;
     border-radius: 25px;
     margin-right: 25px;
     margin-left: 25px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    margin-bottom: -80px;
+    padding-left: 80px;
+    padding-right: 80px;
     box-shadow: 0px 4px 20px 5px #0000001a;
 }
 
@@ -440,7 +447,7 @@ body{
   content: '';
   width: 60px;
   height: 3px;
-  background-color: #f1950b;
+  background-color: #ffffff;
   display: block;
   margin-top: 30px;
   margin-bottom: 30px;
@@ -459,12 +466,12 @@ body{
 }
 
 .contact .header-line-center {
-    margin-top: 30px;
+    margin-top: 80px;
     margin-bottom: 100px;
     font-size: 50px;
     font-weight: bold;
+    color: white;
 }
-
 
 
 .contact p{
