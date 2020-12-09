@@ -88,9 +88,7 @@ body{
 
 /*header*/
 .header {
-    /*	
     background: url(../img/view-of-factory-against-blue-sky-257700.jpg) no-repeat top center;
-    */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -395,6 +393,7 @@ body{
 .customers img{
   box-shadow: 0px 5px 20px 0px #00000014;
   border-radius: 5px 5px 5px 5px;
+  margin-bottom: 40px;
 }
 
 .customers .row{
@@ -420,8 +419,8 @@ body{
     padding-top: 80px;
     padding-bottom: 80px;
     margin-bottom: -80px;
-    padding-left: 80px;
-    padding-right: 80px;
+    padding-left: 25px;
+    padding-right: 25px;
     box-shadow: 0px 4px 20px 5px #0000001a;
 }
 
@@ -538,7 +537,7 @@ body{
 
 @media(max-width: 767px){
   .contact-us .contact-btn{
-    padding: 8px 150px;
+    padding: 8px 50px;
   }
 }
 
